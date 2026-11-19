@@ -3,7 +3,7 @@
 !provides: 'MCPServer' '1.93.0'!
 !requires: 'WebClient' '0.0.0' '*.*.*'!
 !requires: 'JSON' '0.0.0' '*.*.*'!
-!requires: 'OSProcess' '0.0.0' '*.*.*'!
+!requires: 'OSProcess' '1.38.0' '1.*.*'!
 SystemOrganization addCategory: #MCPServer!
 
 
